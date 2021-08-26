@@ -1,0 +1,6 @@
+gunicorn
+requests
+pyTelegramBotAPI
+SQLalchemy
+psycopg2
+boto 
