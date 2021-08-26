@@ -1,0 +1,1 @@
+This is just a copy of my private project, but without personal info, jank and other unnecessary things
